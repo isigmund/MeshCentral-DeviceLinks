@@ -39,8 +39,6 @@ module.exports.devicelinks = function (parent) {
 
     // called to notify the web server that there is a new tab in town
     obj.registerPluginTab = function() {
-      if (currentNode.osdesc.toLowerCase().indexOf('windows') === -1) return { tabId: null, tabTitle: null };
-
       return {
         tabTitle: "Device Links",
         tabId: "pluginDeviceLinks"
