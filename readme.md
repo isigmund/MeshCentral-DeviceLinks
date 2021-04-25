@@ -14,7 +14,8 @@ add some descriptioen here
 >     },
 Restart your MeshCentral server after making this change.
 
- To install, simply add the plugin configuration URL when prompted:
- `https://github.com/isigmund/MeshCentral-DeviceLinks/raw/master/config.json`
+ To install, simply add the plugin configuration URL when prompted:   
+`https://raw.githubusercontent.com/isigmund/MeshCentral-DeviceLinks/master/config.json`
+
 
 ## Usage
