@@ -1,7 +1,7 @@
 {
   "name": "Device LInks",
   "shortName": "devicelinks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Ingo Sigmund",
   "description": "A plugiin to maintain additional links for a device",
   "hasAdminPanel": false,
